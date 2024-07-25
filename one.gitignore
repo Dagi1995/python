@@ -1,0 +1,15 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore build output
+/bin
+/obj
+*.dll
+*.exe
+*.pdb
+
+# Ignore Visual Studio specific files
+.vs/
+*.user
+*.suo
+*.csproj.user
