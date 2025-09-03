@@ -1,1 +1,1 @@
-yes fake calculator 🤭
+yes fake calculator
